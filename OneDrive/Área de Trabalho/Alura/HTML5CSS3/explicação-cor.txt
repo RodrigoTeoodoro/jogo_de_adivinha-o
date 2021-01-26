@@ -1,0 +1,30 @@
+
+
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# (tralha) _ _ _ _ _ _
+
+0 = ausência de cor
+
+F = Máximo
+
+#000000 //representando o preto, então dois 00 para vermelho, dois zeros para o verde, e dois zeros para o azul.
+
+#FFFFFF // representando o branco, .......
+
+red
+blue
+yellow
+
+
+RGB 0,1,2.... até 255
+
+0 = ausência
+255 = Máximo
+rgb(255,0,0) representando o branco nesta demonstração
